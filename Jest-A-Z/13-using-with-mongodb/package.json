@@ -1,0 +1,24 @@
+{
+  "name": "13-using-with-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^1.2.3"
+  },
+  "config": {
+    "mongodbMemoryServer": {
+      "version": "latest",
+      "debug": "1"
+    }
+  }
+}

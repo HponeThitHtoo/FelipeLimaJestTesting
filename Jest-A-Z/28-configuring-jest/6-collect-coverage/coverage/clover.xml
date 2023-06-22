@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1605799194862" clover="3.2.0">
+  <project timestamp="1605799194862" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="9" coveredelements="9" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="utils-1.js" path="D:\MyCodes\Felipe Lima\Jest-A-Z\28-configuring-jest\6-collect-coverage\utils-1.js">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="cond" truecount="2" falsecount="0"/>
+    </file>
+  </project>
+</coverage>

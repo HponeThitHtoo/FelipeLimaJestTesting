@@ -1,0 +1,7 @@
+const auth = require("../auth");
+
+jest.disableAutomock();
+
+test("disabledAutomock", () => {
+  expect(auth.authorize()).toBe("original");
+});

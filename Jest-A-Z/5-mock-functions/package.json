@@ -1,0 +1,19 @@
+{
+  "name": "5-mock-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.15",
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

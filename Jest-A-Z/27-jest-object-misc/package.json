@@ -1,0 +1,19 @@
+{
+  "name": "27-jest-object-misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-circus": "^26.6.3"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.15"
+  }
+}
